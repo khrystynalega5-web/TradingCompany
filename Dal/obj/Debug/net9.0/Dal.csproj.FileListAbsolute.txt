@@ -1,0 +1,12 @@
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.csproj.AssemblyReference.cache
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.AssemblyInfoInputs.cache
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.AssemblyInfo.cs
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.csproj.CoreCompileInputs.cache
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\bin\Debug\net9.0\Dal.deps.json
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\bin\Debug\net9.0\Dal.dll
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\bin\Debug\net9.0\Dal.pdb
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.dll
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\refint\Dal.dll
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.pdb
+E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\ref\Dal.dll

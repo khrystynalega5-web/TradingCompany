@@ -1,0 +1,14 @@
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.DAL.deps.json
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.DAL.runtimeconfig.json
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.DAL.dll
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.DAL.pdb
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.csproj.AssemblyReference.cache
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.AssemblyInfoInputs.cache
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.AssemblyInfo.cs
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.csproj.CoreCompileInputs.cache
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.dll
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\refint\TradingCompany.DAL.dll
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.pdb
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.DAL.genruntimeconfig.cache
+E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\ref\TradingCompany.DAL.dll
