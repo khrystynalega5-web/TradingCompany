@@ -13,9 +13,12 @@ namespace TradingCompany.Tests
     {
         private TradingCompanyDbContext _context = null!;
         private SaleRepository _repository = null!;
+        private Product _defaultProduct = null!;
+        private Category _defaultCategory = null!;
+        private Supplier _defaultSupplier = null!;
 
         [SetUp]
-        public void SetUp()
+        public async Task SetUp()
         {
             var options = new DbContextOptionsBuilder<TradingCompanyDbContext>()
                 .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
@@ -23,6 +26,26 @@ namespace TradingCompany.Tests
 
             _context = new TradingCompanyDbContext(options);
             _repository = new SaleRepository(_context);
+
+            _defaultCategory = new Category { CategoryName = "Тестова категорія" };
+            _defaultSupplier = new Supplier { CompanyName = "Тестовий постачальник", City = "Львів", ContactPhone = "+380000000000" };
+
+            _context.Categories.Add(_defaultCategory);
+            _context.Suppliers.Add(_defaultSupplier);
+            await _context.SaveChangesAsync();
+
+            _defaultProduct = new Product
+            {
+                ProductName = "Тестовий товар",
+                SKU = "TEST-SKU-SALE",
+                UnitPrice = 100m,
+                StockQuantity = 10,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            };
+
+            _context.Products.Add(_defaultProduct);
+            await _context.SaveChangesAsync();
         }
 
         [TearDown]
@@ -35,38 +58,27 @@ namespace TradingCompany.Tests
         [Test]
         public async Task AddAsync_ShouldAddSale()
         {
-            
-            var product = new Product { ProductName = "Тестовий товар", UnitPrice = 100m };
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-
             var sale = new Sale
             {
-                ProductId = product.ProductId,
+                ProductId = _defaultProduct.ProductId,
                 Quantity = 2,
                 SalePrice = 100m,
                 PaymentMethod = "Готівка"
             };
 
-            
             await _repository.AddAsync(sale);
             var result = await _repository.GetByIdAsync(sale.SaleId);
 
-            
             Assert.That(result, Is.Not.Null);
             Assert.That(result!.Quantity, Is.EqualTo(2));
-            Assert.That(result.ProductId, Is.EqualTo(product.ProductId));
+            Assert.That(result.ProductId, Is.EqualTo(_defaultProduct.ProductId));
         }
 
         [Test]
         public async Task GetAllAsync_ShouldReturnAllSales()
         {
-            var product = new Product { ProductName = "Товар", UnitPrice = 50m };
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-
-            await _repository.AddAsync(new Sale { ProductId = product.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Картка" });
-            await _repository.AddAsync(new Sale { ProductId = product.ProductId, Quantity = 3, SalePrice = 50m, PaymentMethod = "Готівка" });
+            await _repository.AddAsync(new Sale { ProductId = _defaultProduct.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Картка" });
+            await _repository.AddAsync(new Sale { ProductId = _defaultProduct.ProductId, Quantity = 3, SalePrice = 50m, PaymentMethod = "Готівка" });
 
             var list = await _repository.GetAllAsync();
 
@@ -76,11 +88,7 @@ namespace TradingCompany.Tests
         [Test]
         public async Task UpdateAsync_ShouldUpdateSale()
         {
-            var product = new Product { ProductName = "Товар", UnitPrice = 50m };
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-
-            var sale = new Sale { ProductId = product.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Готівка" };
+            var sale = new Sale { ProductId = _defaultProduct.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Готівка" };
             await _repository.AddAsync(sale);
 
             sale.Quantity = 5;
@@ -95,11 +103,7 @@ namespace TradingCompany.Tests
         [Test]
         public async Task DeleteAsync_ShouldRemoveSale()
         {
-            var product = new Product { ProductName = "Товар", UnitPrice = 50m };
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
-
-            var sale = new Sale { ProductId = product.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Готівка" };
+            var sale = new Sale { ProductId = _defaultProduct.ProductId, Quantity = 1, SalePrice = 50m, PaymentMethod = "Готівка" };
             await _repository.AddAsync(sale);
 
             await _repository.DeleteAsync(sale.SaleId);

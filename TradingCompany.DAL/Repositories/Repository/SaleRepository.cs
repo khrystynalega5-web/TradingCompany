@@ -48,25 +48,14 @@ namespace TradingCompany.DAL.Repositories
 
             if (sale == null)
             {
-                Console.WriteLine("Продаж з таким ID не знайдено.");
                 return false;
             }
 
-            Console.Write($"Ви впевнені, що хочете видалити продаж із ID {sale.SaleId}? (Так/Ні): ");
-            var confirmation = Console.ReadLine()?.Trim().ToLower();
+            _context.Sales.Remove(sale);
+            await _context.SaveChangesAsync();
 
-            if (confirmation == "так" || confirmation == "т")
-            {
-                _context.Sales.Remove(sale);
-                await _context.SaveChangesAsync();
-                Console.WriteLine("Продаж успішно видалено!");
-                return true;
-            }
-            else
-            {
-                Console.WriteLine("Видалення скасовано користувачем.");
-                return false;
-            }
+            return true;
         }
     }
+        
 }

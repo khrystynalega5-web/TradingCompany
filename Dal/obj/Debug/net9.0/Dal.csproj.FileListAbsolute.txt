@@ -10,3 +10,29 @@ E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.dll
 E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\refint\Dal.dll
 E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\Dal.pdb
 E:\Музичук ПЗ\TradingCompany.DAL\Dal\obj\Debug\net9.0\ref\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.deps.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.csproj.AssemblyReference.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.AssemblyInfoInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.AssemblyInfo.cs
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.sourcelink.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\refint\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\Dal\obj\Debug\net9.0\ref\Dal.dll
+E:\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.deps.json
+E:\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.dll
+E:\TradingCompanyProgect\Dal\bin\Debug\net9.0\Dal.pdb
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.csproj.AssemblyReference.cache
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.AssemblyInfoInputs.cache
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.AssemblyInfo.cs
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.csproj.CoreCompileInputs.cache
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.sourcelink.json
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.dll
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\refint\Dal.dll
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\Dal.pdb
+E:\TradingCompanyProgect\Dal\obj\Debug\net9.0\ref\Dal.dll

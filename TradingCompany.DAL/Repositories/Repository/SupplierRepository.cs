@@ -43,27 +43,21 @@ namespace TradingCompany.DAL.Repositories.Repository
 
             if (supplier == null)
             {
-                Console.WriteLine("Постачальника з таким ID не знайдено.");
                 return false;
             }
 
-            Console.Write($"Ви впевнені, що хочете видалити постачальника '{supplier.CompanyName}' та всі пов'язані з ним товари? (Так/Ні): ");
-            var confirmation = Console.ReadLine()?.Trim().ToLower();
+            var relatedProducts = _context.Products.Where(p => p.SupplierId == id).ToList();
 
-            if (confirmation == "так" || confirmation == "т")
+            if (relatedProducts.Any())
             {
-                var relatedProducts = _context.Products.Where(p => p.SupplierId == id);
                 _context.Products.RemoveRange(relatedProducts);
-                _context.Suppliers.Remove(supplier);
-                await _context.SaveChangesAsync();
-                Console.WriteLine("Постачальника та пов'язані товари успішно видалено!");
-                return true;
             }
-            else
-            {
-                Console.WriteLine("Видалення скасовано користувачем.");
-                return false;
-            }
+
+            _context.Suppliers.Remove(supplier);
+            await _context.SaveChangesAsync();
+
+            return true;
         }
     }
+    
 }

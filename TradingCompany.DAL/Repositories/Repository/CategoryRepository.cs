@@ -6,7 +6,7 @@ using TradingCompany.DAL.Repositories.Interface;
 
 namespace TradingCompany.DAL.Repositories.Repository
 {
-   
+
     public class CategoryRepository : ICategoryRepository
     {
         private readonly TradingCompanyDbContext _context;
@@ -28,6 +28,13 @@ namespace TradingCompany.DAL.Repositories.Repository
 
         public async Task AddAsync(Category entity)
         {
+            var exists = await _context.Categories.AnyAsync(c => c.CategoryName == entity.CategoryName);
+
+            if (exists)
+            {
+                throw new InvalidOperationException($"Категорія з назвою '{entity.CategoryName}' вже існує.");
+            }
+
             await _context.Categories.AddAsync(entity);
             await _context.SaveChangesAsync();
         }
@@ -41,32 +48,20 @@ namespace TradingCompany.DAL.Repositories.Repository
         public async Task<bool> DeleteAsync(int id)
         {
             var category = await _context.Categories.FindAsync(id);
+            if (category == null) return false;
 
-            if (category == null)
+            var relatedProducts = _context.Products.Where(p => p.CategoryId == id).ToList();
+            if (relatedProducts.Any())
             {
-                Console.WriteLine("Категорію з таким ID не знайдено.");
-                return false; 
-            }
-
-            Console.Write($"Ви впевнені, що хочете видалити категорію '{category.CategoryName}' та всі пов'язані з нею товари? (Так/Ні): ");
-            var confirmation = Console.ReadLine()?.Trim().ToLower();
-
-            if (confirmation == "так" || confirmation == "т")
-            {
-                var relatedProducts = _context.Products.Where(p => p.CategoryId == id);
                 _context.Products.RemoveRange(relatedProducts);
-                _context.Categories.Remove(category);
-                await _context.SaveChangesAsync();
-                Console.WriteLine("Категорію та пов'язані товари успішно видалено!");
-                return true; 
             }
-            else
-            {
-                Console.WriteLine("Видалення скасовано користувачем.");
-                return false; 
-            }
+
+            _context.Categories.Remove(category);
+            await _context.SaveChangesAsync();
+            return true;
         }
     }
 }
+
     
     

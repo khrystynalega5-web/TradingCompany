@@ -14,17 +14,26 @@ namespace TradingCompany.Tests
         private TradingCompanyDbContext _context = null!;
         private ProductRepository _repository = null!;
 
+        private Category _defaultCategory;
+        private Supplier _defaultSupplier;
+
         [SetUp]
-        public void SetUp()
+        public async Task SetUp()
         {
             var options = new DbContextOptionsBuilder<TradingCompanyDbContext>()
-    .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
-    .Options;
+                .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
+                .Options;
 
             _context = new TradingCompanyDbContext(options);
             _repository = new ProductRepository(_context);
-        }
 
+            _defaultCategory = new Category { CategoryName = "Тестова категорія" };
+            _defaultSupplier = new Supplier { CompanyName = "Тестовий постачальник", City = "Львів", ContactPhone = "+380000000000" };
+
+            _context.Categories.Add(_defaultCategory);
+            _context.Suppliers.Add(_defaultSupplier);
+            await _context.SaveChangesAsync();
+        }
         [TearDown]
         public void TearDown()
         {
@@ -35,7 +44,15 @@ namespace TradingCompany.Tests
         [Test]
         public async Task AddAsync_ShouldAddProduct()
         {
-            var product = new Product { ProductName = "Ноутбук", UnitPrice = 25000m };
+            var product = new Product
+            {
+                ProductName = "Ноутбук",
+                SKU = "LAPTOP-001",
+                UnitPrice = 25000m,
+                StockQuantity = 5,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            };
 
             await _repository.AddAsync(product);
             var result = await _repository.GetByIdAsync(product.ProductId);
@@ -47,8 +64,25 @@ namespace TradingCompany.Tests
         [Test]
         public async Task GetAllAsync_ShouldReturnAllProducts()
         {
-            await _repository.AddAsync(new Product { ProductName = "P1", UnitPrice = 10m });
-            await _repository.AddAsync(new Product { ProductName = "P2", UnitPrice = 20m });
+            await _repository.AddAsync(new Product
+            {
+                ProductName = "P1",
+                SKU = "SKU-P1",
+                UnitPrice = 10m,
+                StockQuantity = 5,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            });
+
+            await _repository.AddAsync(new Product
+            {
+                ProductName = "P2",
+                SKU = "SKU-P2",
+                UnitPrice = 20m,
+                StockQuantity = 5,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            });
 
             var list = await _repository.GetAllAsync();
 
@@ -58,7 +92,16 @@ namespace TradingCompany.Tests
         [Test]
         public async Task UpdateAsync_ShouldUpdateProduct()
         {
-            var product = new Product { ProductName = "Телефон", UnitPrice = 10000m };
+            var product = new Product
+            {
+                ProductName = "Телефон",
+                SKU = "PHONE-001",
+                UnitPrice = 10000m,
+                StockQuantity = 5,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            };
+
             await _repository.AddAsync(product);
 
             product.UnitPrice = 12000m;
@@ -73,7 +116,16 @@ namespace TradingCompany.Tests
         [Test]
         public async Task DeleteAsync_ShouldRemoveProduct()
         {
-            var product = new Product { ProductName = "Delete Me", UnitPrice = 50m };
+            var product = new Product
+            {
+                ProductName = "Delete Me",
+                SKU = "DELETE-SKU-001",
+                UnitPrice = 50m,
+                StockQuantity = 5,
+                CategoryId = _defaultCategory.CategoryId,
+                SupplierId = _defaultSupplier.SupplierId
+            };
+
             await _repository.AddAsync(product);
 
             await _repository.DeleteAsync(product.ProductId);

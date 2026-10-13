@@ -88,14 +88,28 @@ namespace TradingCompany.ConsoleApp
                 switch (choice)
                 {
                     case "1":
-                        Console.Write("Назва категорії (CategoryName): ");
-                        string name = Console.ReadLine() ?? "";
-                        Console.Write("Опис (Description): ");
-                        string desc = Console.ReadLine() ?? "";
+                        bool isAdded = false;
+                        while (!isAdded)
+                        {
+                            Console.Write("Назва категорії (CategoryName): ");
+                            string name = Console.ReadLine() ?? "";
+                            Console.Write("Опис (Description): ");
+                            string desc = Console.ReadLine() ?? "";
 
-                        var cat = new Category { CategoryName = name, Description = desc };
-                        await repo.AddAsync(cat);
-                        Console.WriteLine($"\n[УСПІХ] Категорію успішно додано!");
+                            try
+                            {
+                                var cat = new Category { CategoryName = name, Description = desc };
+                                await repo.AddAsync(cat);
+                                Console.WriteLine($"\n[УСПІХ] Категорію успішно додано!");
+                                isAdded = true; 
+                            }
+                            catch (InvalidOperationException ex)
+                            {
+                                
+                                Console.WriteLine($"\n[ПОМИЛКА]: {ex.Message}");
+                                Console.WriteLine("Спробуйте ввести іншу назву.\n");
+                            }
+                        }
                         break;
 
                     case "2":
@@ -141,7 +155,36 @@ namespace TradingCompany.ConsoleApp
                         Console.Write("\nВведіть ID категорії для видалення: ");
                         if (int.TryParse(Console.ReadLine(), out int delId))
                         {
-                            await repo.DeleteAsync(delId);
+                            var categoryToDelete = listForDel.FirstOrDefault(c => c.CategoryId == delId);
+                            if (categoryToDelete == null)
+                            {
+                                Console.WriteLine("Категорію з таким ID не знайдено.");
+                                break;
+                            }
+
+                            Console.Write($"Ви впевнені, що хочете видалити категорію '{categoryToDelete.CategoryName}' та всі пов'язані з нею товари? (Так/Ні): ");
+                            var confirmation = Console.ReadLine()?.Trim().ToLower();
+
+                            if (confirmation == "так" || confirmation == "т")
+                            {
+                                bool success = await repo.DeleteAsync(delId);
+                                if (success)
+                                {
+                                    Console.WriteLine("Категорію та пов'язані товари успішно видалено!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Помилка під час видалення.");
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Видалення скасовано користувачем.");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Невірний формат ID.");
                         }
                         break;
 
@@ -256,16 +299,37 @@ namespace TradingCompany.ConsoleApp
                         Console.Write("\nВведіть ID товару для видалення: ");
                         if (int.TryParse(Console.ReadLine(), out int delId))
                         {
-                            bool success = await productRepo.DeleteAsync(delId);
-
-                            if (success)
+                            var productToDelete = listForDel.FirstOrDefault(p => p.ProductId == delId);
+                            if (productToDelete == null)
                             {
-                                Console.WriteLine("\n[УСПІХ] Товар видалено!");
+                                Console.WriteLine("\n[ПОМИЛКА] Товар із таким ID не знайдено.");
+                                break;
+                            }
+
+                            Console.Write($"Ви впевнені, що хочете видалити товар '{productToDelete.ProductName}' та всі пов'язані з ним продажі? (Так/Ні): ");
+                            var confirmation = Console.ReadLine()?.Trim().ToLower();
+
+                            if (confirmation == "так" || confirmation == "т")
+                            {
+                                bool success = await productRepo.DeleteAsync(delId);
+
+                                if (success)
+                                {
+                                    Console.WriteLine("\n[УСПІХ] Товар та пов'язані продажі успішно видалено!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("\n[ПОМИЛКА] Не вдалося видалити товар.");
+                                }
                             }
                             else
                             {
-                                Console.WriteLine("\n[ПОМИЛКА] Товар із таким ID не знайдено.");
+                                Console.WriteLine("\nВидалення скасовано користувачем.");
                             }
+                        }
+                        else
+                        {
+                            Console.WriteLine("\n[ПОМИЛКА] Невірний формат ID.");
                         }
                         break;
 
@@ -374,19 +438,39 @@ namespace TradingCompany.ConsoleApp
                         Console.Write("\nВведіть ID постачальника для видалення: ");
                         if (int.TryParse(Console.ReadLine(), out int delId))
                         {
-                            bool success = await repo.DeleteAsync(delId);
-
-                            if (success)
+                            var supplierToDelete = listForDel.FirstOrDefault(s => s.SupplierId == delId);
+                            if (supplierToDelete == null)
                             {
-                                Console.WriteLine("\n[УСПІХ] Постачальника видалено!");
+                                Console.WriteLine("\n[ПОМИЛКА] Постачальника із таким ID не знайдено.");
+                                break;
+                            }
+
+                            Console.Write($"Ви впевнені, що хочете видалити постачальника '{supplierToDelete.CompanyName}'? (Так/Ні): ");
+                            var confirmation = Console.ReadLine()?.Trim().ToLower();
+
+                            if (confirmation == "так" || confirmation == "т")
+                            {
+                                bool success = await repo.DeleteAsync(delId);
+
+                                if (success)
+                                {
+                                    Console.WriteLine("\n[УСПІХ] Постачальника успішно видалено!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("\n[ПОМИЛКА] Не вдалося видалити постачальника.");
+                                }
                             }
                             else
                             {
-                                Console.WriteLine("\n[ПОМИЛКА] Постачальника із таким ID не знайдено.");
+                                Console.WriteLine("\nВидалення скасовано користувачем.");
                             }
                         }
+                        else
+                        {
+                            Console.WriteLine("\n[ПОМИЛКА] Невірний формат ID.");
+                        }
                         break;
-
                     case "0":
                         back = true;
                         continue;
@@ -515,19 +599,39 @@ namespace TradingCompany.ConsoleApp
                         Console.Write("\nВведіть ID продажу для видалення: ");
                         if (int.TryParse(Console.ReadLine(), out int delId))
                         {
-                            bool success = await saleRepo.DeleteAsync(delId);
-
-                            if (success)
+                            var saleToDelete = listForDel.FirstOrDefault(s => s.SaleId == delId);
+                            if (saleToDelete == null)
                             {
-                                Console.WriteLine("\n[УСПІХ] Продаж видалено!");
+                                Console.WriteLine("\n[ПОМИЛКА] Продаж із таким ID не знайдено.");
+                                break;
+                            }
+
+                            Console.Write($"Ви впевнені, що хочете видалити продаж із ID {saleToDelete.SaleId}? (Так/Ні): ");
+                            var confirmation = Console.ReadLine()?.Trim().ToLower();
+
+                            if (confirmation == "так" || confirmation == "т")
+                            {
+                                bool success = await saleRepo.DeleteAsync(delId);
+
+                                if (success)
+                                {
+                                    Console.WriteLine("\n[УСПІХ] Продаж успішно видалено!");
+                                }
+                                else
+                                {
+                                    Console.WriteLine("\n[ПОМИЛКА] Не вдалося видалити продаж.");
+                                }
                             }
                             else
                             {
-                                Console.WriteLine("\n[ПОМИЛКА] Продаж із таким ID не знайдено.");
+                                Console.WriteLine("\nВидалення скасовано користувачем.");
                             }
                         }
+                        else
+                        {
+                            Console.WriteLine("\n[ПОМИЛКА] Невірний формат ID.");
+                        }
                         break;
-
                     case "0":
                         back = true;
                         continue;

@@ -15,3 +15,39 @@ E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\re
 E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.pdb
 E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.genruntimeconfig.cache
 E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.DAL\obj\Debug\net9.0\ref\TradingCompany.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.deps.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.runtimeconfig.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\Dal.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.csproj.AssemblyReference.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.AssemblyInfoInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.AssemblyInfo.cs
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.csproj.CoreCompileInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.sourcelink.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingC.A2C0ECC7.Up2Date
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\refint\TradingCompany.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.genruntimeconfig.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\ref\TradingCompany.dll
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.deps.json
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.runtimeconfig.json
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.dll
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\TradingCompany.pdb
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\Dal.dll
+E:\TradingCompanyProgect\TradingCompany.DAL\bin\Debug\net9.0\Dal.pdb
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.csproj.AssemblyReference.cache
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.GeneratedMSBuildEditorConfig.editorconfig
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.AssemblyInfoInputs.cache
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.AssemblyInfo.cs
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.csproj.CoreCompileInputs.cache
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.sourcelink.json
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingC.A2C0ECC7.Up2Date
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.dll
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\refint\TradingCompany.dll
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.pdb
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\TradingCompany.genruntimeconfig.cache
+E:\TradingCompanyProgect\TradingCompany.DAL\obj\Debug\net9.0\ref\TradingCompany.dll

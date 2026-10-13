@@ -1,155 +1,312 @@
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TradingCompany.Tests
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TradingCompany.Tests
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\testhost.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\testhost.exe
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.api.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.core.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\testcentric.engine.metadata.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.deps.json
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.runtimeconfig.json
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.pdb
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Azure.Core.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Azure.Identity.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.legacy.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.ClientModel.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Drawing.Common.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Memory.Data.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Runtime.Caching.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Permissions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Text.Json.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\System.Windows.Extensions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.AssemblyReference.cache
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.GeneratedMSBuildEditorConfig.editorconfig
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfoInputs.cache
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfo.cs
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.CoreCompileInputs.cache
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingC.E77F8309.Up2Date
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\refint\TradingCompany.Tests.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.pdb
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.genruntimeconfig.cache
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\obj\Debug\net9.0\ref\TradingCompany.Tests.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Dal.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.dll
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.pdb
-E:\Музичук ПЗ\TradingCompany.DAL\TradingCompany.Tests\bin\Debug\net9.0\Dal.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TradingCompany.Tests
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TradingCompany.Tests
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testhost.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testhost.exe
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.api.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.core.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.deps.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.runtimeconfig.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Dal.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Dal.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.AssemblyReference.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfoInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfo.cs
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.CoreCompileInputs.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.sourcelink.json
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingC.E77F8309.Up2Date
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\refint\TradingCompany.Tests.dll
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.pdb
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.genruntimeconfig.cache
+C:\Users\користувач\OneDrive\Desktop\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\ref\TradingCompany.Tests.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TradingCompany.Tests
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_TradingCompany.Tests
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testhost.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testhost.exe
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.api.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.engine.core.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\testcentric.engine.metadata.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.deps.json
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.runtimeconfig.json
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.Tests.pdb
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Azure.Core.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Azure.Identity.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\nunit.framework.legacy.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.ClientModel.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Memory.Data.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Text.Json.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Dal.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\TradingCompany.pdb
+E:\TradingCompanyProgect\TradingCompany.Tests\bin\Debug\net9.0\Dal.pdb
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.AssemblyReference.cache
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfoInputs.cache
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.AssemblyInfo.cs
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.csproj.CoreCompileInputs.cache
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.sourcelink.json
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingC.E77F8309.Up2Date
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\refint\TradingCompany.Tests.dll
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.pdb
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\TradingCompany.Tests.genruntimeconfig.cache
+E:\TradingCompanyProgect\TradingCompany.Tests\obj\Debug\net9.0\ref\TradingCompany.Tests.dll

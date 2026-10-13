@@ -49,27 +49,20 @@ namespace TradingCompany.DAL.Repositories
 
             if (product == null)
             {
-                Console.WriteLine("Товар з таким ID не знайдено.");
                 return false;
             }
 
-            Console.Write($"Ви впевнені, що хочете видалити товар '{product.ProductName}' та всі пов'язані з ним продажі? (Так/Ні): ");
-            var confirmation = Console.ReadLine()?.Trim().ToLower();
+            var relatedSales = _context.Sales.Where(s => s.ProductId == id).ToList();
 
-            if (confirmation == "так" || confirmation == "т")
+            if (relatedSales.Any())
             {
-                var relatedSales = _context.Sales.Where(s => s.ProductId == id);
                 _context.Sales.RemoveRange(relatedSales);
-                _context.Products.Remove(product);
-                await _context.SaveChangesAsync();
-                Console.WriteLine("Товар та пов'язані продажі успішно видалено!");
-                return true;
             }
-            else
-            {
-                Console.WriteLine("Видалення скасовано користувачем.");
-                return false;
-            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+
+            return true;
         }
     }
-}
+    }

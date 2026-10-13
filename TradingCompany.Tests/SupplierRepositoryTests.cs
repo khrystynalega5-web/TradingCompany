@@ -14,9 +14,10 @@ namespace TradingCompany.Tests
     {
         private TradingCompanyDbContext _context = null!;
         private ISupplierRepository _repository = null!;
+        private Supplier _defaultSupplier = null!;
 
         [SetUp]
-        public void SetUp()
+        public async Task SetUp()
         {
             var options = new DbContextOptionsBuilder<TradingCompanyDbContext>()
                 .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
@@ -24,6 +25,16 @@ namespace TradingCompany.Tests
 
             _context = new TradingCompanyDbContext(options);
             _repository = new SupplierRepository(_context);
+
+            _defaultSupplier = new Supplier
+            {
+                CompanyName = "Тестовий постачальник",
+                City = "Львів",
+                ContactPhone = "+380000000000"
+            };
+
+            _context.Suppliers.Add(_defaultSupplier);
+            await _context.SaveChangesAsync();
         }
 
         [TearDown]
@@ -36,17 +47,16 @@ namespace TradingCompany.Tests
         [Test]
         public async Task AddAsync_ShouldAddSupplierToDatabase()
         {
-            // Arrange
             var supplier = new Supplier
             {
-                CompanyName = "TechCorp"
+                CompanyName = "TechCorp",
+                City = "Київ",
+                ContactPhone = "+380111111111"
             };
 
-            // Act
             await _repository.AddAsync(supplier);
             var result = await _repository.GetByIdAsync(supplier.SupplierId);
 
-            // Assert
             Assert.That(result, Is.Not.Null);
             Assert.That(result!.CompanyName, Is.EqualTo("TechCorp"));
         }
@@ -54,42 +64,26 @@ namespace TradingCompany.Tests
         [Test]
         public async Task GetAllAsync_ShouldReturnAllSuppliers()
         {
-            // Arrange
             await _repository.AddAsync(new Supplier
             {
-                CompanyName = "Supplier A"
+                CompanyName = "Supplier A",
+                City = "Львів",
+                ContactPhone = "+380222222222"
             });
 
-            await _repository.AddAsync(new Supplier
-            {
-                CompanyName = "Supplier B"
-            });
-
-            // Act
             var list = await _repository.GetAllAsync();
 
-            // Assert
             Assert.That(list.Count(), Is.EqualTo(2));
         }
 
         [Test]
         public async Task UpdateAsync_ShouldUpdateSupplier()
         {
-            // Arrange
-            var supplier = new Supplier
-            {
-                CompanyName = "Old Supplier"
-            };
+            _defaultSupplier.CompanyName = "New Supplier";
+            await _repository.UpdateAsync(_defaultSupplier);
 
-            await _repository.AddAsync(supplier);
+            var updated = await _repository.GetByIdAsync(_defaultSupplier.SupplierId);
 
-            // Act
-            supplier.CompanyName = "New Supplier";
-            await _repository.UpdateAsync(supplier);
-
-            var updated = await _repository.GetByIdAsync(supplier.SupplierId);
-
-            // Assert
             Assert.That(updated, Is.Not.Null);
             Assert.That(updated!.CompanyName, Is.EqualTo("New Supplier"));
         }
@@ -97,20 +91,10 @@ namespace TradingCompany.Tests
         [Test]
         public async Task DeleteAsync_ShouldRemoveSupplier()
         {
-            // Arrange
-            var supplier = new Supplier
-            {
-                CompanyName = "To Delete"
-            };
+            await _repository.DeleteAsync(_defaultSupplier.SupplierId);
 
-            await _repository.AddAsync(supplier);
+            var result = await _repository.GetByIdAsync(_defaultSupplier.SupplierId);
 
-            // Act
-            await _repository.DeleteAsync(supplier.SupplierId);
-
-            var result = await _repository.GetByIdAsync(supplier.SupplierId);
-
-            // Assert
             Assert.That(result, Is.Null);
         }
     }
